@@ -18,7 +18,7 @@ module.exports = defineConfig({
       // implement node event listeners here
       reporter: "Test result",
         // require("cypress-mochawesome-reporter/plugin")(on);
-        (config.specPattern = ["cypress/e2e/1-Belajar/karis/Sign_up.cy.js"]);
+        (config.specPattern = ["cypress/e2e/1-Belajar/Jajang/Sign_up.cy.js"]);
       return config;
     },
     viewportHeight: 768,

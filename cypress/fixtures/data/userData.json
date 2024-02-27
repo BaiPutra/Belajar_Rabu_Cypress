@@ -6,6 +6,13 @@
     "password": "test@1234",
     "password-confirmation": "test@1234"
   },
+  "validUser1": {
+    "firstName": "Test",
+    "lastName": "Think",
+    "email": "teamRabu123@test.com",
+    "password": "test@1234",
+    "password-confirmation": "test@1234"
+  },
   "invalidUser1": {
     "firstName": "Jane",
     "lastName": "Smith",
